@@ -1,7 +1,5 @@
 # Colby Tong
 
-<img src="https://github.com/colbytong/colbytong/blob/main/CSE2%20Banner%20Photo.jpg?raw=true" alt="Awesome README Templates" />
-
 ## About Me 📕
 
 👋 Hello!
@@ -11,6 +9,8 @@ I am a junior studying Computer Science at the University of Washington with bot
 Currently, I am working as Startup UW's Website Manager updating the webpage: [startupuw.org][3]
 
 Please note: My GitHub profile is limited, as I am not allowed to include many school projects and code from internships due to confidentiality policies.
+
+<img src="https://github.com/colbytong/colbytong/blob/main/CSE2%20Banner%20Photo.jpg?raw=true" alt="Awesome README Templates" />
 
 ## Get in touch 📬
 
