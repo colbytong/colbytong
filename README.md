@@ -1,6 +1,6 @@
 # Colby Tong
 
-<img src="https://raw.githubusercontent.com/elangosundar/awesome-README-templates/master/awesome-github-profile.png" alt="Awesome README Templates" />
+<img src="https://github.com/colbytong/colbytong/blob/main/CSE2%20Banner%20Photo.jpg?raw=true" alt="Awesome README Templates" />
 
 ## About Me 📕
 
