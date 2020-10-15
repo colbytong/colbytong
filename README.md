@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/elangosundar/awesome-README-templates/master/awesome-github-profile.png" alt="Awesome README Templates" />
 # Colby Tong
 
 ## About Me 📕
