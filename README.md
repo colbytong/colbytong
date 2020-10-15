@@ -3,6 +3,7 @@
 ## About Me 📕
 
 👋 Hello!
+
 I am a junior studying Computer Science at the University of Washington with both project-based and industry experience in data analytics using Java, C++, and Python. 
 
 Currently, I am working to update the Startup UW website: [startupuw.org][3]
@@ -15,7 +16,7 @@ Please note: My GitHub profile is limited, as I am not allowed to include many s
 - LinkedIn: [linkedin.com/in/colbytong][1]
 - Personal Portfolio: [colbytong.weebly.com][2]
 
-####Last Updated ⚡
+###Last Updated ⚡
 October 14, 2020
 
 [1]: https://www.linkedin.com/in/colbytong/
