@@ -6,7 +6,7 @@
 
 I am a junior studying Computer Science at the University of Washington with both project-based and industry experience in data analytics using Java, C++, and Python. 
 
-Currently, I am working as Startup UW's Website Manager updating the webpage: [startupuw.org][3]
+Currently, I am working as Startup UW's Website Manager updating the webpage.
 
 Please note: My GitHub profile is limited, as I am not allowed to include many school projects and code from internships due to confidentiality policies.
 
