@@ -4,7 +4,7 @@
 
 👋 Hello!
 
-I am a junior studying Computer Science at the University of Washington with both project-based and industry experience in data analytics using Java, C++, and Python. 
+I am a senior studying Computer Science at the University of Washington with both project-based and industry experience in back end development and data analytics using Java, C++, and Python. 
 
 Currently, I am working as Startup UW's Website Manager updating the webpage.
 
@@ -19,7 +19,7 @@ Please note: My GitHub profile is limited, as I am not allowed to include many s
 - Personal Portfolio: [colbytong.weebly.com][2]
 
 #### Last Updated ⚡
-October 14, 2020
+August 1, 2021
 
 [1]: https://www.linkedin.com/in/colbytong/
 [2]: https://colbytong.weebly.com/
