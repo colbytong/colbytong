@@ -8,7 +8,7 @@ I am a senior studying Computer Science at the University of Washington with bot
 
 Currently, I am working as Startup UW's Website Manager updating the webpage.
 
-Please note: My GitHub profile is limited, as I am not allowed to include many school projects and code from internships due to confidentiality policies.
+Please note: My GitHub profile is quite limited, as I am not allowed to include many school projects and code from internships due to confidentiality policies. Please see my personal portfolio linked below to read more about the software projects I have been working on.
 
 <img src="https://github.com/colbytong/colbytong/blob/main/CSE2%20Banner%20Photo.jpg?raw=true" alt="Awesome README Templates" />
 
